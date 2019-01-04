@@ -5,7 +5,7 @@ Scientific Computing as a service
 
 1. Create a Docker image first
 ````bash
-git clone https://github.com/aayushgandhi/ScaaS.git
+git clone https://github.com/Divsinfra/ScaaS.git
 cd ScaaS
 docker build . -t myapp:latest 
 ````
